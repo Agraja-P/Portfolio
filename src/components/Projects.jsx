@@ -25,7 +25,7 @@ const Projects = () => {
   icon: QrCode,
   gradient: 'from-indigo-500 to-purple-600',
   tags: ['React', 'Vite', 'Tailwind CSS', 'TypeScript'],
-  github: '#', // Replace with your actual GitHub repo URL
+  github: 'https://github.com/Agraja-P/QR-code-creator', // Replace with your actual GitHub repo URL
   live: '#' // Replace with your actual live demo link
 }
 ,
@@ -35,7 +35,7 @@ const Projects = () => {
       icon: User,
       gradient: 'from-purple-400 to-indigo-600',
       tags: ['React', 'Framer Motion', 'Tailwind CSS'],
-      github: '#',
+      github: 'https://github.com/Agraja-P/Portfolio',
       live: '#'
     }
   ]
