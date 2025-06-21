@@ -12,7 +12,7 @@ const Contact = () => {
   const contactInfo = [
     {
       icon: Mail,
-      title: 'Email',
+      title: 'E',
       value: 'agrajaprahlad@gmail.com',
       href: 'mailto:agrajaprahlad@gmail.com'
     },

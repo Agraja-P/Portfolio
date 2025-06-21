@@ -20,7 +20,7 @@ const Projects = () => {
       live: '#'
     },
     {
-  title: 'Q Code Generator',
+  title: 'QR Code Generator',
   description: 'A responsive and fast QR code generator that allows users to create and download QR codes for URLs, text, or custom data. Built with modern tools and a clean UI for a seamless experience.',
   icon: QrCode,
   gradient: 'from-indigo-500 to-purple-600',
